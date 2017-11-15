@@ -1,0 +1,89 @@
+/*body{ background: red;
+}*/
+
+body { font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+main {
+	max-width:800px;
+	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:calibiri;
+	font-size:25px;
+}
+
+table {
+	width:100%
+}
+
+
+nav ul  {
+	font-family:impact;
+	font-size:30px;
+	font-weight:bold;
+	text-align: center;
+	list-style-type: none;
+	background-color:blue;
+}
+
+
+
+ nav li {
+	 display: inline-block;
+ }
+ 
+ 
+nav ul a{
+	text-decoration:none;
+	font-family:calibiri;
+	display: block;
+	background-color:green;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+	
+}
+
+ 
+ li a:hover  {
+	 color:red;
+	 text-decoration:underline;
+	 
+}
+
+li {
+	display:inline;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
